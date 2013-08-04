@@ -1,16 +1,16 @@
-[![Build Status](https://travis-ci.org/wearefractal/APPNAME.png?branch=master)](https://travis-ci.org/wearefractal/APPNAME)
+[![Build Status](https://travis-ci.org/wearefractal/999.png?branch=master)](https://travis-ci.org/wearefractal/999)
 
-[![NPM version](https://badge.fury.io/js/APPNAME.png)](http://badge.fury.io/js/APPNAME)
+[![NPM version](https://badge.fury.io/js/999.png)](http://badge.fury.io/js/999)
 
 ## Information
 
 <table>
 <tr> 
-<td>Package</td><td>APPNAME</td>
+<td>Package</td><td>999</td>
 </tr>
 <tr>
 <td>Description</td>
-<td>DESCRIPTIONHERE</td>
+<td>Provides a comprehensive 9-9-9 plan for web applications</td>
 </tr>
 <tr>
 <td>Node Version</td>
@@ -18,15 +18,21 @@
 </tr>
 </table>
 
+![god](http://i.imgur.com/IMTbyV5.gif)
+
 ## Usage
 
 ```javascript
-EXAMPLEHERE
+var nineninenine = require('999');
+
+console.log(nineninenine[0]); // 9
+console.log(nineninenine[1]); // 9
+console.log(nineninenine[2]); // 9
 ```
 
 ## Examples
 
-You can view more examples in the [example folder.](https://github.com/wearefractal/APPNAME/tree/master/examples)
+You can view more examples in the [example folder.](https://github.com/wearefractal/999/tree/master/examples)
 
 ## LICENSE
 

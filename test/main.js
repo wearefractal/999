@@ -1,12 +1,11 @@
-var APPNAME = require('../');
+var nineninenine = require('../');
 var should = require('should');
 require('mocha');
 
-describe('APPNAME', function() {
+describe('999', function() {
   describe('FUNCTIONNAME()', function() {
     it('should TASKNAME', function(done) {
-      should.exist(true);
-      true.should.equal["true"];
+      nineninenine.should.eql([9,9,9]);
       done();
     });
   });

@@ -28,6 +28,8 @@ var nineninenine = require('999');
 console.log(nineninenine[0]); // 9
 console.log(nineninenine[1]); // 9
 console.log(nineninenine[2]); // 9
+
+yourApp.theEconomy = nineninenine; // [9, 9, 9]
 ```
 
 ## Examples
